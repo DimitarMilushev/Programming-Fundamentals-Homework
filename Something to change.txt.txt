@@ -1,2 +1,6 @@
 a change
+<<<<<<< HEAD
 change from main
+=======
+branch change
+>>>>>>> testBranch
